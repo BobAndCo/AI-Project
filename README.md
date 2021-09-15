@@ -15,5 +15,5 @@ This is a github repository following the journey of me and my friends into the 
 
 ## Learning
 
-1. [ ] (TensorFlow 2 Quickstart for beginners)[https://www.tensorflow.org/tutorials/quickstart/beginner]
+1. [ ] [TensorFlow 2 Quickstart for beginners](https://www.tensorflow.org/tutorials/quickstart/beginner)
 2. [ ] Do projects
