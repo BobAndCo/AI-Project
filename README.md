@@ -7,7 +7,7 @@ This is a github repository following the journey of me and my friends into the 
 
 1. [ ] Math
     1. [ ] Linear Algebra
-    2. [ ] Derivative (partial, ordinary)
+    2. [ ] Derivative (ordinary, ordinary)
     3. [ ] Stats Probability
     4. [ ] Tensors
     5. [ ] Differential Equations
