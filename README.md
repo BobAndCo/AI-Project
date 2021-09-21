@@ -6,12 +6,12 @@ This is a github repository following the journey of me and my friends into the 
 ## Prerequsities
 
 1. [ ] Math
-    1. [ ] Linear Algebra
-    2. [ ] Calculus 
-    3. [ ] Multivariable 
+    1. [ ] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+    2. [ ] [Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+    3. [ ] [Multivariable](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
     4. [ ] Stats Probability
-    5. [ ] Tensors
-    6. [ ] Differential Equations
+    5. [ ] Tensors (Linear Algebra Done Wrong)
+    6. [ ] [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)
 2. [ ] Pseaducode
 
 ## Learning
