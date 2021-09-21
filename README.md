@@ -18,3 +18,9 @@ This is a github repository following the journey of me and my friends into the 
 
 1. [ ] [TensorFlow 2 Quickstart for beginners](https://www.tensorflow.org/tutorials/quickstart/beginner)
 2. [ ] Do projects
+
+## Resources
+
+1. [Tech with tim neural net's tutorial](https://www.youtube.com/watch?v=OS0Ddkle0o4&list=PLzMcBGfZo4-lak7tiFDec5_ZMItiIIfmj)
+2. [Tech with tim machine learning tutorial](https://www.youtube.com/watch?v=OS0Ddkle0o4&list=PLzMcBGfZo4-lak7tiFDec5_ZMItiIIfmj)
+3. [3b1b neural nets tutorial](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
