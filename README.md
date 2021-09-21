@@ -9,7 +9,7 @@ This is a github repository following the journey of me and my friends into the 
     1. [ ] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
     2. [ ] [Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
     3. [ ] [Multivariable](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
-    4. [ ] Stats Probability 
+    4. [ ] Stats Probability (deep learning and pattern recognition books)
     5. [ ] Tensors (Linear Algebra Done Wrong)
     6. [ ] [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)
 2. [ ] Pseaducode
