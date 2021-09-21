@@ -6,12 +6,12 @@ This is a github repository following the journey of me and my friends into the 
 ## Prerequsities
 
 1. [ ] Math
-    1. [ ] Linear Algebra
-    2. [ ] Calculus 
-    3. [ ] Multivariable 
-    4. [ ] Stats Probability
-    5. [ ] Tensors
-    6. [ ] Differential Equations
+    1. [ ] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+    2. [ ] [Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+    3. [ ] [Multivariable](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
+    4. [ ] Stats Probability 
+    5. [ ] Tensors (Linear Algebra Done Wrong)
+    6. [ ] [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)
 2. [ ] Pseaducode
 
 ## Learning
@@ -29,6 +29,6 @@ This is a github repository following the journey of me and my friends into the 
 
 ## Textbooks
 
-1. [Linear Algebra](http://www.math.brown.edu/streil/papers/LADW/LADW_2017-09-04.pdf)
+1. [Linear Algebra Done Wrong](http://www.math.brown.edu/streil/papers/LADW/LADW_2017-09-04.pdf)
 2. [Pattern Recognition and Machine Leearning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 3. [Deep Learning](https://www.deeplearningbook.org/)
