@@ -31,3 +31,4 @@ This is a github repository following the journey of me and my friends into the 
 
 1. [Linear Algebra](http://www.math.brown.edu/streil/papers/LADW/LADW_2017-09-04.pdf)
 2. [Pattern Recognition and Machine Leearning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+3. [Deep Learning](https://www.deeplearningbook.org/)
