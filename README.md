@@ -59,8 +59,8 @@ This is a github repository following the journey of me and my friends into the 
 	1. [ ] Single Variable Calculus and Caculus I
 		1. [ ] [Paul's Online Notes](https://tutorial.math.lamar.edu/classes/calci/Functions.aspx)
 	2. [ ] Multivariable Calculus,Calculus II and Calculus III
-		2. [ ] [Paul's Online Notes](https://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx) -> Calculus II
-    	3. [ ] [Paul's Online Notes](https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx) -> Calculus III
+		1. [ ] [Paul's Online Notes](https://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx) -> Calculus II
+		2. [ ] [Paul's Online Notes](https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx) -> Calculus III
 	3. [ ] Linear Algebra
 
 # Workflow
