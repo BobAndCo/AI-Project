@@ -7,8 +7,8 @@ This is a github repository following the journey of me and my friends into the 
 
 1. [ ] Math
     1. [ ] Logic
-    2. [ ] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
-    3. [ ] [Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+    2. [ ] [Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+    3. [ ] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
     4. [ ] [Multivariable](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
     5. [ ] Stats Probability (deep learning and pattern recognition books)
     6. [ ] Tensors (Linear Algebra Done Wrong)
